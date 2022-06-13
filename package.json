@@ -2,11 +2,12 @@
   "name": "crud-app",
   "version": "3.1.0",
   "private": true,
-  "homepage": "https://ruchi222.github.io/crud-app/",
+  "homepage": "https://github.com/ruchi222/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "lodash": "^4.17.21",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
